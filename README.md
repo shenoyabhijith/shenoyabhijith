@@ -12,19 +12,200 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
-</div>
+<!-- Cloud Platforms -->
+<h3>Cloud Platforms</h3>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/><br>
+        <sub>AWS</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" alt="Azure"/><br>
+        <sub>Azure</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Scripting and Programming Languages -->
+<h3>Scripting and Programming Languages</h3>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"/><br>
+        <sub>Bash</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://golang.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Go"/><br>
+        <sub>Go</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>
+        <sub>Python</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/><br>
+        <sub>Node.js</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Data Visualization and Frontend Frameworks -->
+<h3>Data Visualization and Frontend Frameworks</h3>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://d3js.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="40" height="40" alt="D3.js"/><br>
+        <sub>D3.js</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/><br>
+        <sub>React</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="Vue.js"/><br>
+        <sub>Vue.js</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Containerization and Orchestration -->
+<h3>Containerization and Orchestration</h3>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/><br>
+        <sub>Docker</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes"/><br>
+        <sub>Kubernetes</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Monitoring and CI/CD Tools -->
+<h3>Monitoring and CI/CD Tools</h3>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://grafana.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" alt="Grafana"/><br>
+        <sub>Grafana</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" alt="Jenkins"/><br>
+        <sub>Jenkins</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Databases -->
+<h3>Databases</h3>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/><br>
+        <sub>MongoDB</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/><br>
+        <sub>MySQL</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/><br>
+        <sub>PostgreSQL</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite"/><br>
+        <sub>SQLite</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://redis.io" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis"/><br>
+        <sub>Redis</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Machine Learning and Data Science -->
+<h3>Machine Learning and Data Science</h3>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/><br>
+        <sub>Pandas</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/><br>
+        <sub>Scikit-learn</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/><br>
+        <sub>PyTorch</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/><br>
+        <sub>TensorFlow</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Backend and Cloud Tools -->
+<h3>Backend and Cloud Tools</h3>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/><br>
+        <sub>Firebase</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ###
 ###
