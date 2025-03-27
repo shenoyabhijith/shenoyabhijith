@@ -28,6 +28,42 @@
 </div>
 
 ###
+###
+
+<h3 align="left">Core Technical Stack</h3>
+
+**Python**  
+- Primary language for AI/ML automation and infrastructure scripting [2][4][10]  
+- Developed Elasticache optimization algorithms saving $1M MRR [1][3]  
+- Built CI/CD pipelines using Flask and pytest frameworks [1][10]  
+- Integrated with TensorFlow/PyTorch for ML model deployments [5][8]
+
+**AWS Cloud Services**  
+- Architected cloud-native solutions using EC2, EKS, and Lambda [1][3]  
+- Automated patch management with Systems Manager [1][4]  
+- Migrated 50+ TB Redis databases to Elasticache [1][3]  
+- Certified Security Specialist & Solutions Architect Pro [1]
+
+**Terraform**  
+- Infrastructure-as-Code for multi-cloud provisioning [1][12]  
+- Certified Terraform Associate with 300+ infrastructure modules [1][12]  
+- Integrated with AWS S3 backends for state management [1]
+
+**Docker & Kubernetes**  
+- Containerized ML workloads achieving 99.9% uptime [3][10]  
+- Orchestrated ECS/EKS clusters with auto-scaling [1][3]  
+- Implemented GitOps workflows with ArgoCD [1][10]
+
+**Ansible**  
+- Automated OS patching for 10,000+ EC2 instances [1][3]  
+- Configuration management for hybrid cloud environments [1][11]  
+- Integrated with CloudWatch for event-driven automation [1]
+
+**Shell Scripting**  
+- Developed low-level system diagnostics tools [1][11]  
+- Automated log analysis with grep/awk/sed pipelines [1][3]  
+- Created custom performance monitoring scripts [1][10]
+
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -55,3 +91,22 @@
   📊 AI-Ops Dashboard: Real-time monitoring with Python CDK & CloudWatch[1][3]<br>
   🚀 Migration Automation: On-prem to AWS transition frameworks[1][3]
 </div>
+
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
+</div>
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
