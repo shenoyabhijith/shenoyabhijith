@@ -2,7 +2,6 @@
 
 ###
 
-[![Abhjith's Github stats](https://github-readme-stats.vercel.app/api?username=shenoyabhijith)](https://github.com/shenoyabhijith/github-readme-stats)
 
 <!-- Cloud Platforms -->
 <h3>Cloud Platforms</h3>
